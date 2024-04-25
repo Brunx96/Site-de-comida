@@ -9,7 +9,7 @@ h1 {
 .FoodJP {
     height: 20px;
     width: 100px; 
-     
+    padding-left: 260px;     
     
 }
 
@@ -21,17 +21,23 @@ ul {
     padding-left: 14%;
 }
 
+.butao {
+    background-color: white;
+    border-radius: 10px;
+    padding-left: 4%;
+}
+
 a {
     text-decoration: none;
     color: rgb(0, 0, 0);
     font-family: Arial;
+    margin-inline-start: 2rem;
 }
 
 header {    
     height: 60px;
     width: 100%
 }
-
 
 nav {
     height: 100%;
@@ -44,20 +50,20 @@ nav {
 .japonesa {
     width: 150%;
     padding-top: 2%;
-    
+    margin-inline-start: 6rem;
 }
 
 .paragrafo {
-    width: 15%;
+    width: 25%;
     padding-top: 2%;
-    margin-inline-start: 10rem;
+    margin-inline-start: 16rem;
 }
 
 .cardapio {
     width: 120px;
     color: rgb(255, 255, 255);  
     background-color: red; 
-    margin-inline-start: 10rem;   
+    margin-inline-start: 16rem;   
     border-radius: 4px;
     font-size: 1rem;
     font-weight: 200; 
@@ -69,7 +75,7 @@ nav {
     height: 300px;
     position: absolute;
     top: 400px;
-    right: 775px;
+    padding-left: 250px;
    
 }
 
@@ -106,9 +112,43 @@ nav {
     margin-inline: 25rem;
 }
 
-.grupos {    
-    border-radius: 16px 0px 0px 0px;   
+.grupo10{
+    width: 250px;
+    height: 400px;
+    padding-right: 2%;
+    padding-left: 20%;
+}
+
+.grupo8 {
+    width: 250px;
+    height: 400px;
+    padding-right: 2%;
+}
+
+.grupo9 {
+    width: 250px;
+    height: 400px;
+}
+
+.comenta1 {
+    padding-left: 90px;
+}
+
+.commit {
+    width: 390px;
+    height: 220px;
+    padding-left: 20%;
+    padding-right: 1%;
+}   
+
+.commit1 {
+    width: 390px;
+    height: 220px;
+}
     
+
+.local1 {
+    padding-left: 90px;
 }
 
 .local {
@@ -126,11 +166,19 @@ nav {
     background-color: red;
     border-radius: 10%;
     padding-right: 2%;
-    margin-inline-start: 48rem;  
+    margin-inline-start: 0%;  
      
 }
 
-.search {
+.busca1 {
     padding-left: 48%;
-      
+    padding-top: 1%;
 }
+
+.FoodJP1 {
+    height: 20px;
+    width: 100px; 
+    padding-left: 230px;
+    padding-top: 8%;
+}
+
